@@ -1,0 +1,5 @@
+1 left
+2 up
+5 left
+6 up
+Goal state found.
