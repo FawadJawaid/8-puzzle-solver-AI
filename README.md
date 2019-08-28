@@ -1,5 +1,5 @@
 # 8-Puzzle Solver AI
-This an Artificial Intelligence project which solves the 8-Puzzle problem using different Artificial Intelligence algorithms techniques like *Uninformed-BFS*, *Uninformed-Iterative Deepening*, *Informed-Greedy Best First*, *Informed-A** and *Beyond Classical search-Steepest hill climbing*.
+This is an Artificial Intelligence project which solves the 8-Puzzle problem using different Artificial Intelligence algorithms techniques like *Uninformed-BFS*, *Uninformed-Iterative Deepening*, *Informed-Greedy Best First*, *Informed-A** and *Beyond Classical search-Steepest hill climbing*.
  
 - **CS401-K112116-A2P1.cpp** uses *Uninformed-BFS*.
 - **CS401-K112116-A2P2.cpp** uses *Uninformed-Iterative Deepening*.
